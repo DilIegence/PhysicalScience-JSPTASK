@@ -1,3 +1,13 @@
-body {
-	
+#topnav {
+	background: repeating-linear-gradient(365deg, skyblue 10%, cadetblue 35%, skyblue 99%);
+	font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+	padding-bottom: 10px;
+	padding-top: 20px;
+	padding-left: 40px;
+	padding-bottom: 20px;
+	height: 50px;
+	border-radius: 100px;
+	border-style: groove;
+	border-color: black;
+	position: sticky;
 }
